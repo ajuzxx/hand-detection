@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+mediapipe
+numpy
+pandas
+plyer
+pillow

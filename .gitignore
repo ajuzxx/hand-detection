@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+.venv/
+evidence_photos/
+*.csv
