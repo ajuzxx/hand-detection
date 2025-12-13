@@ -18,8 +18,9 @@ A computer vision application that ensures exam integrity by monitoring student 
 ## 📸 Screenshots
 
 <img width="1907" height="956" alt="image" src="https://github.com/user-attachments/assets/6a39a29b-d690-4aec-97af-d0ace74a8168" />
+<img width="1713" height="833" alt="image" src="https://github.com/user-attachments/assets/0e18e44f-2d07-4214-8f0f-e53b7b5ad6d0" />
 
-*(Upload 2 screenshots here: one of the "Setup Mode" and one of the "Red Alert" mode)*
+
 
 ## ⚙️ How to Run
 1.  Clone the repository:
